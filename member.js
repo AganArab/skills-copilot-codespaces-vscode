@@ -8,5 +8,4 @@ function skillMember(){
         scope: {
             member: 'm'
         }
-    };git 
-}
+    };
